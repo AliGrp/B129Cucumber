@@ -1,0 +1,21 @@
+-Cucumber Projesi oluşturmak istediğimizde yapmamız gereken adımlar:
+------------------------------------------------------------------------------------------------------------------------
+ 1-Öncelikle dependency'leri pom.xml dosyamıza yüklememiz gerekir
+    (selenium-java, webdrivermanager, cucumber-java, cucumber-jUnit)
+------------------------------------------------------------------------------------------------------------------------
+ 2-Sonra file->settings->plugins->marketplace den cucumber ve gherkin pluginlerini yüklememiz gerekir.
+------------------------------------------------------------------------------------------------------------------------
+ 3-Test->java->techproed(bize bağlı)-> 4 tane package oluştururuz:
+   3.1-|pages|-> Locatelerimizi bu package altında tutarız
+   3.2-|stepDefiniton|-> Yazdığımız test adımlarının kodlarını tutarız
+   3.3-|utilities|-> Projemiz için oluşturmuş olduğumuz Driver class'larını bu package'da tutarız.
+   3.4-|runners|-> Bu package altında istediğimiz senaryoları çalıştırır ve rapor alabiliriz.
+------------------------------------------------------------------------------------------------------------------------
+ 4-Test package'ı altında Gherkin language kullanarak yazacağımız .feature file'lar için resources package'ı oluştururuz.
+ ------------------------------------------------------------------------------------------------------------------------
+  5-Projemizdeki data'ları(email,password,Url vs.) bir yerde toplamak için .properties uzantılı dosya oluştururuz.
+     (Proje seviyesinde bu dosyamızı oluştururuz.Proje seviyesinde sağ tık -> new -> file -> configuration.properties)
+ ------------------------------------------------------------------------------------------------------------------------
+  6-Feature file'lar için resources package'ı altında features isminde bir package daha oluştururuz.
+     (resources'a sağ tık -> Directory -> features)
+ -----------------------------------------------------------------------------------------------------------------------

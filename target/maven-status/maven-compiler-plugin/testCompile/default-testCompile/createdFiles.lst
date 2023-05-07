@@ -1,0 +1,9 @@
+techproed\pages\TestCenterTechproPage.class
+techproed\pages\TechproPage.class
+techproed\pages\OpenSourcePage.class
+techproed\stepDefinitions\TechproStepDefinition.class
+techproed\pages\BlueRentalPage.class
+techproed\pages\DemoQAPage.class
+techproed\runner\Runner.class
+techproed\pages\AmazonPage.class
+techproed\pages\GooglePage.class
