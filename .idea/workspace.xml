@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07b0367d-b980-49ce-8b18-5314a220d495" name="Changes" comment="060523">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="07b0367d-b980-49ce-8b18-5314a220d495" name="Changes" comment="070523">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/pages/GooglePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/GooglePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/TechproStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/TechproStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +56,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\java\techproed\utilities" />
       <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\resources\features\day30_ilkFeature" />
       <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\java\techproed\pages" />
-      <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\java\techproed\utilities" />
       <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber" />
       <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test" />
     </key>
@@ -85,6 +91,25 @@
       <module name="B129Cucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
       <option name="SUGGESTED_NAME" value="Feature: US002_TechproedTesti" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: US004_Parametre_Kullanimi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/day31_Background_Parameterizing_ScenarioOutline/US004_Parametre_Kullanimi.feature" />
+      <option name="GLUE" value="techproed.stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="B129Cucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US004_Parametre_Kullanimi" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -132,6 +157,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Feature: US004_Parametre_Kullanimi" />
         <item itemvalue="Cucumber Java.Feature: US002_TechproedTesti" />
         <item itemvalue="Cucumber Java.Feature: US001_AmazonTesti" />
         <item itemvalue="Cucumber Java.Feature: ilkfeature" />
@@ -161,11 +187,19 @@
       <option name="project" value="LOCAL" />
       <updated>1683403055510</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="070523">
+      <created>1683483690391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683483690391</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="060523" />
-    <option name="LAST_COMMIT_MESSAGE" value="060523" />
+    <MESSAGE value="070523" />
+    <option name="LAST_COMMIT_MESSAGE" value="070523" />
   </component>
 </project>

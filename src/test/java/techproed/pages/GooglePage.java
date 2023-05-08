@@ -12,7 +12,7 @@ public class GooglePage {
         PageFactory.initElements(Driver.getDriver(),this);
 
     }
-    @FindBy(xpath = "//*[@id='APjFqb']")
+    @FindBy(name = "q")
     public WebElement aramaKutusu;
 
     @FindBy(id = "result-stats")

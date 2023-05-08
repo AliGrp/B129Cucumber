@@ -5,5 +5,7 @@ techproed\stepDefinitions\TechproStepDefinition.class
 techproed\pages\BlueRentalPage.class
 techproed\pages\DemoQAPage.class
 techproed\runner\Runner.class
+techproed\stepDefinitions\GoogleStepDefinitions.class
 techproed\pages\AmazonPage.class
 techproed\pages\GooglePage.class
+techproed\utilities\ReusableMethods.class

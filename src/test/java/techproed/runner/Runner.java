@@ -13,9 +13,10 @@ Cucumber frameworkunde de Runner Classindaki tags parametresi ile belirttigimiz 
 @RunWith(Cucumber.class)
 
 //Seneryolarin nerede ve nasil calisacagi, hangi raporu kullanacagiyla alakali secenekleri ayarlariz
-@CucumberOptions(features = "src/test/resources/features/day30_ilkFeature",
+@CucumberOptions(features = "src/test/resources/features/",
                     glue = {"techproed/stepDefinitions"}, //glue parametresi ile kodlarimzi yazdigimiz step definition classinin packageni belirtiriz
-                     tags = "@gr1 and @gr2" )
+                     tags = "@GoogleSearchScenarioOutline",
+                      dryRun = false )
 
 public class Runner {
 
