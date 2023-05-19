@@ -5,7 +5,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import org.apache.commons.io.FileUtils;
 
-import org.junit.jupiter.api.Test;
+
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
@@ -205,31 +205,5 @@ public  class ReusableMethods {
         System.out.println("Attribute Value: = " + attribute_Value);
     }
 
-//    public static class PositiveTest {
-//        @Test
-//        public void test01() {
-//            /*
-//            Acceptance Criteria:
-//            Admin olarak, uygulamaya giriş yapabilmeliyim
-//            https://www.bluerentalcars.com/
-//            Admin email: jack@gmail.com
-//            Admin password: 12345
-//             */
-//            Driver.getDriver().get(ConfigReader.getProperty("blueRentACarUrl"));
-//            Reporter.log("BlueRental sayfasina gidildi");
-//            BlueRentalPage blueRentalPage = new BlueRentalPage();
-//
-//            blueRentalPage.login.click();
-//            Reporter.log("Login butonuna tiklandi");
-//            blueRentalPage.email.sendKeys(ConfigReader.getProperty("email"),
-//            Keys.TAB,ConfigReader.getProperty("pass"),Keys.ENTER);
-//            Reporter.log("Email ve Password girildi");
-//
-//            Assert.assertEquals(blueRentalPage.verify.getText(),"Jack Nicholson");
-//            Reporter.log("Dogrulama yapildi");
-//            Driver.closeDriver();
-//            Reporter.log("Sayfa kapatildi");
-//
-//        }
-//    }
+
 }

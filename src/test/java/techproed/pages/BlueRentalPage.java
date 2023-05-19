@@ -59,4 +59,10 @@ public class BlueRentalPage {
 
         @FindBy(xpath = "//*[@role='alert']")
         public  WebElement uyariMesaji;
+
+        @FindBy(xpath = "//*[text()='Profile']")
+        public WebElement profile;
+
+        @FindBy(xpath = "//em")
+        public WebElement verifyEmail;
 }

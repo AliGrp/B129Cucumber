@@ -4,17 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07b0367d-b980-49ce-8b18-5314a220d495" name="Changes" comment="080523">
+    <list default="true" id="07b0367d-b980-49ce-8b18-5314a220d495" name="Changes" comment="100523">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot/screenshot_10_18_11_08052023TumSayfaResmi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot/screenshot_11_17_02_08052023TumSayfaResmi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot/screenshot_11_17_24_08052023TumSayfaResmi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot/screenshot_11_17_47_08052023TumSayfaResmi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot/screenshot_11_19_31_08052023TumSayfaResmi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot/screenshot_11_19_52_08052023TumSayfaResmi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot/screenshot_11_20_14_08052023TumSayfaResmi.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/pages/BlueRentalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/BlueRentalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/AmazonStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/AmazonStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/GoogleStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/GoogleStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/TechproStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/TechproStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/day30_ilkFeature/CucumberProjeOlusturma.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/day30_ilkFeature/CucumberProjeOlusturma.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/json-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/json-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mdunna-cucumber-reports.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/day30_ilkFeature/CucumberProjeOlusturma.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/day30_ilkFeature/CucumberProjeOlusturma.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/techproed/pages/BlueRentalPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/techproed/pages/BlueRentalPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/techproed/runner/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/techproed/stepDefinitions/AmazonStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/techproed/stepDefinitions/AmazonStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/techproed/stepDefinitions/GoogleStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/techproed/stepDefinitions/GoogleStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/techproed/stepDefinitions/TechproStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/techproed/stepDefinitions/TechproStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/techproed/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/techproed/utilities/ReusableMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xml-report/cucumber.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +65,37 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/IdeaProjects/B129Cucumber/src/test/java/techproed/stepDefinitions&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/IdeaProjects/B129Cucumber/src/test/java/techproed/pages&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\java\techproed\pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\resources\features\day35_ExcelUtils" />
       <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\java\techproed\utilities" />
+      <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\resources" />
       <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\resources\features\day30_ilkFeature" />
       <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test\java\techproed\pages" />
-      <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber" />
-      <recent name="C:\Users\ASUS\IdeaProjects\B129Cucumber\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="techproed.runner" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Runner">
-    <configuration name="Feature: US001_AmazonTesti" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Feature: US001_ParallelTest">
+    <configuration name="Feature: US001_ParallelTest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/day30_ilkFeature/US001_AmazonTesti.feature" />
-      <option name="GLUE" value="techproed.stepDefinitions" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/day36_ParallelTest_CucumberReport/US001_ParallelTest.feature" />
+      <option name="GLUE" value="techproed.stepDefinitions techproed.hooks" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="B129Cucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: US001_AmazonTesti" />
+      <option name="SUGGESTED_NAME" value="Feature: US001_ParallelTest" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -85,14 +107,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: US002_TechproedTesti" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: US003_Rerun" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/day30_ilkFeature/US002_TechproedTesti.feature" />
-      <option name="GLUE" value="techproed.stepDefinitions" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/day35_Excel_Rerun/US003_Rerun.feature" />
+      <option name="GLUE" value="techproed.stepDefinitions techproed.hooks" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="B129Cucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: US002_TechproedTesti" />
+      <option name="SUGGESTED_NAME" value="Feature: US003_Rerun" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -104,14 +126,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: US004_Parametre_Kullanimi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: US20_Hubcomfy_Coupons" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/day31_Background_Parameterizing_ScenarioOutline/US004_Parametre_Kullanimi.feature" />
-      <option name="GLUE" value="techproed.stepDefinitions" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/practise/US20_Hubcomfy_Coupons.feature" />
+      <option name="GLUE" value="techproed.stepDefinitions techproed.hooks" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="B129Cucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: US004_Parametre_Kullanimi" />
+      <option name="SUGGESTED_NAME" value="Feature: US20_Hubcomfy_Coupons" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -123,13 +145,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: ilkfeature" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Hubcomfy sitesinde kupon olusturabilmeliyim" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ilkfeature.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/practise/US20_Hubcomfy_Coupons.feature" />
+      <option name="GLUE" value="techproed.stepDefinitions techproed.hooks" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="B129Cucumber" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: ilkfeature" />
+      <option name="NAME_FILTER" value="^Hubcomfy sitesinde kupon olusturabilmeliyim$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Hubcomfy sitesinde kupon olusturabilmeliyim$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Hubcomfy sitesinde kupon olusturabilmeliyim" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +169,12 @@
       <module name="B129Cucumber" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.runner.*" />
+          <option name="PATTERN" value="techproed.runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="techproed.runner" />
-      <option name="MAIN_CLASS_NAME" value="techproed.runner.Runner" />
+      <option name="MAIN_CLASS_NAME" value="techproed.runners.Runner" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: US001_ParallelTest" />
+        <item itemvalue="Cucumber Java.Feature: US20_Hubcomfy_Coupons" />
+        <item itemvalue="Cucumber Java.Scenario: Hubcomfy sitesinde kupon olusturabilmeliyim" />
         <item itemvalue="JUnit.Runner" />
-        <item itemvalue="Cucumber Java.Feature: US004_Parametre_Kullanimi" />
-        <item itemvalue="Cucumber Java.Feature: US002_TechproedTesti" />
-        <item itemvalue="Cucumber Java.Feature: US001_AmazonTesti" />
-        <item itemvalue="Cucumber Java.Feature: ilkfeature" />
+        <item itemvalue="Cucumber Java.Feature: US003_Rerun" />
       </list>
     </recent_temporary>
   </component>
@@ -203,13 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683577658814</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="100523">
+      <created>1683666157078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683666157080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="060523" />
     <MESSAGE value="070523" />
     <MESSAGE value="080523" />
-    <option name="LAST_COMMIT_MESSAGE" value="080523" />
+    <MESSAGE value="100523" />
+    <option name="LAST_COMMIT_MESSAGE" value="100523" />
   </component>
 </project>

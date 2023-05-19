@@ -48,4 +48,9 @@ public class TechproStepDefinition {
     public void kullanici_tum_sayfanin_resmini_alir() {
         ReusableMethods.tumSayfaResmi("TumSayfaResmi");
     }
+
+    @Then("sayfa_basliginin_Sql_icerdigini_test_eder")
+    public void sayfa_basliginin_sql_icerdigini_test_eder() {
+        Assert.assertTrue(Driver.getDriver().getTitle().contains("Sql"));
+    }
 }

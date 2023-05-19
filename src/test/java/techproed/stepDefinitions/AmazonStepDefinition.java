@@ -2,6 +2,7 @@ package techproed.stepDefinitions;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import techproed.pages.AmazonPage;
@@ -38,5 +39,10 @@ public class AmazonStepDefinition {
     @And("arama_kutusunda_SQL_aratir")
     public void arama_kutusunda_sql_aratir() {
         amazonPage.aramaKutusu.sendKeys("SQL", Keys.ENTER);
+    }
+
+    @And("basligin {string} icerdigini test eder")
+    public void basliginIcerdiginiTestEder(String title) {
+        Assert.assertTrue(Driver.getDriver().getTitle().contains(title));
     }
 }
