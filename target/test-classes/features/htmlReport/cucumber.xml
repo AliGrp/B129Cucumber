@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="74.775" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="US001 TechproEducation Sayfasi Testi" name="TC01_Techpro_Sayfasinda_Selenium_Aratma" time="73.551">
+<failure type="java.lang.AssertionError">
+<![CDATA[java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at techproed.stepDefinitions.TechproStepDefinition.sayfa_basliginin_qa_icerdigini_test_eder(TechproStepDefinition.java:29)
+	at ?.sayfa_basliginin_QA_icerdigini_test_eder(file:///C:/Users/ASUS/IdeaProjects/B129Cucumber/src/test/resources/features/day36_ParallelTest_CucumberReport/US001_ParallelTest.feature:11)
+]]>
+</failure>
+<system-out><![CDATA[
+Given kullanici_"techproed_Url"_sayfasina_gider.............................passed
+Then reklami_kapatir........................................................passed
+When arama_kutusunda_"Selenium"_aratir......................................passed
+And kullanici_2_saniye_bekler...............................................passed
+Then sayfa_basliginin_QA_icerdigini_test_eder...............................failed
+]]></system-out>
+</testcase>
+</testsuite>

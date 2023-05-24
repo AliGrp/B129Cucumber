@@ -1,0 +1,1 @@
+file:src/test/resources/features/day36_ParallelTest_CucumberReport/US001_ParallelTest.feature:7

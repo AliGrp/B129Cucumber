@@ -1,0 +1,9 @@
+Feature: US002_TechProEducation_Testi_Hooks
+  Scenario: TC01_TechProEducation_Sayfasi_Testi
+    Given kullanici_"https://techproeducation.com"_sayfasina_gider
+    And reklami_kapatir
+    And kullanici_3_saniye_bekler
+    And arama_kutusunda_Selenium_aratir
+    And sayfa_basliginin_QA_icerdigini_test_eder
+    When kullanici_tum_sayfanin_resmini_alir
+    And sayfayi_kapatir
